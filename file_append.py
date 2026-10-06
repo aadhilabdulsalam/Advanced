@@ -1,0 +1,16 @@
+# f=open("k.wrt","a")
+# f.write("Python")
+# x=open("k.txt","r")
+# content=x.read()
+# f=open("p.txt","a")
+# f.write(content)
+# f=open("k.txt","a+")
+# f.write("python")
+# print("current position ",f.tell())
+# f.seek(0)
+# print("current position",f.tell())
+# content=f.read()
+111
+# print("content",content)
+# f.close()
+import o
